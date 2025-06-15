@@ -63,10 +63,8 @@ Follow these steps to run the project locally.
 -   A `.env` file in the `backend` directory with your API keys.
 
 ### `.env` File Setup
-
+```bash
 Create a file named `.env` in the `/backend` directory and add your credentials:
-Use code with caution.
-Markdown
 backend/.env
 Google Cloud
 GCP_PROJECT_ID="your-gcp-project-id"
@@ -77,6 +75,7 @@ MongoDB
 MONGO_URI="your_mongodb_atlas_connection_string"
 OpenWeatherMap
 OPENWEATHER_API_KEY="your-openweathermap-api-key"
+```
 ### Backend Setup
 
 1.  **Navigate to the backend directory:**
