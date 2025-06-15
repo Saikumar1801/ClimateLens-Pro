@@ -1,0 +1,7 @@
+GOOGLE_APPLICATION_CREDENTIALS="google-credentials.json"
+GCP_PROJECT_ID="your id"
+
+OPENWEATHER_API_KEY= your key
+
+GEMINI_API_KEY= your url
+MONGO_URI= your url
